@@ -1,7 +1,15 @@
 <h1 align="center">Hi 👋, I'm Abdelatef Mohammed</h1>
 <h3 align="center">Hi 👋! My name is Abdelatef Mohammed, and I'm a Software Engineer and Researcher</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3>🔍 About Me:</h3>
+<ul>
+  <li>🎓 Intern researcher in AI and computer science at the United Nations</li>
+  <li>📘 Scholarship recipient at Arizona State University</li>
+  <li>📚 Proficient in Java, Python, C++, C#, SQL, MySQL, and Data Structures & Algorithms</li>
+  <li>🚀 Building projects like an expense management app, medical test analysis app, and more</li>
+  <li>🌟 Aspiring to secure internships at FAANG companies</li>
+</ul>
+
 <p align="left">
 </p>
 
@@ -11,3 +19,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdelatefelshafei&show_icons=true&locale=en&layout=compact" alt="abdelatefelshafei" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdelatefelshafei&show_icons=true&locale=en" alt="abdelatefelshafei" /></p>
+
